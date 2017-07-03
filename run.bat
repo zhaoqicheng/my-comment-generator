@@ -1,0 +1,1 @@
+java -Dfile.encoding=UTF-8 -cp my-comment-generator.jar;mybatis-generator-core-1.3.3.jar org.mybatis.generator.api.ShellRunner -configfile generatorConfig.xml -overwrite 
